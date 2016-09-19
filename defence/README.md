@@ -1,0 +1,1 @@
+The example user interface shown for Defence was created with AMX Rapid Project Maker, and is representative of the RPM user interfaces deployed in video conferencing environment for Australia Defence Force.
